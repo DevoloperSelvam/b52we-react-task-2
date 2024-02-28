@@ -1,0 +1,21 @@
+.app{
+    text-align: center;
+}
+
+.top{
+    margin-top: 90px;
+}
+
+.bottom{
+    margin-top: 40px;
+}
+
+.content{
+    margin-top: 90px;
+    text-align: center;
+    height: 6rem;
+    padding: 2rem;
+    color: white;
+    font-size: 0.5rem;
+}
+
