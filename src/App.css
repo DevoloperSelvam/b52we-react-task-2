@@ -1,49 +1,50 @@
-.navone{
+.navone {
   display: flex;
   justify-content: flex-start;
   padding-left: 20px;
   font-size: 12px;
-  opacity: 0.5 ;
-  
+  opacity: 0.5;
+
 }
 
-.navtwo{
+.navtwo {
   display: flex;
   justify-content: center;
   text-align: center;
-  opacity: 0.5 ;
+  opacity: 0.5;
 }
 
-.navthree{
+.navthree {
   display: flex;
   justify-content: flex-end;
   padding-right: 20px;
-  
+
 }
 
-button{
+button {
   border: none;
   background-color: white;
 }
 
-#op{
+#op {
   margin: 0 4px;
 }
 
-#op:hover{
+#op:hover {
   background-color: rgb(234, 234, 234);
   border-radius: 20px;
   width: 45px;
   height: 45px;
 }
- 
-.huge{
-padding:20px;
-border-bottom: solid red 2px;
-height: 70px;
+
+.huge {
+  padding: 20px;
+  border-bottom: solid red 2px;
+  height: 70px;
 }
-#off{
-  color:red!important;
+
+#off {
+  color: red !important;
   background-color: rgb(246, 225, 225);
   border-radius: 5px;
   font-size: small;
@@ -51,38 +52,42 @@ height: 70px;
 }
 
 
-.Hilight{
-  
+.Hilight {
+
   text-align: center;
   background-color: rgb(33, 32, 32);
   color: white;
   height: 300px;
   padding: 48px 0px;
 }
+
 h1 {
   margin: 0 0 8px;
   font-size: 60px;
   font-weight: bolder;
 }
-p{
+
+p {
   font-size: 20px;
   opacity: 0.5;
 }
-.range{
+
+.range {
   margin: 48px 40px;
-  
+
 }
-.goat{
+
+.goat {
   margin: 100px;
   display: flex;
   display: wrap;
 }
 
-.add{
+.add {
   border-radius: 6px;
 }
 
-.add:hover{
+.add:hover {
   background-color: rgb(61, 62, 60);
   color: white;
 }

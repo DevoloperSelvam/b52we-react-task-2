@@ -23,8 +23,8 @@ function Header() {
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
-                    <button className='add' style={{border:"2px solid black"}}><img src="https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/header_cart-eed150.svg" alt="" />
-                         Cart <span >0</span></button>
+                <button className='add' style={{ border: "2px solid black" }}><img src="https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/header_cart-eed150.svg" alt="" />
+                    Cart <span >0</span></button>
             </Container>
         </Navbar>
     );

@@ -1,16 +1,16 @@
-.app{
+.app {
     text-align: center;
 }
 
-.top{
+.top {
     margin-top: 90px;
 }
 
-.bottom{
+.bottom {
     margin-top: 40px;
 }
 
-.content{
+.content {
     margin-top: 90px;
     text-align: center;
     height: 6rem;
@@ -18,4 +18,3 @@
     color: white;
     font-size: 0.5rem;
 }
-

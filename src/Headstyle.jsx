@@ -1,11 +1,11 @@
 import './App.css';
 
 function Head() {
-    return(
+    return (
         <header className="Hilight">
             <div className='range'>
                 <h1 >
-                Shop in style
+                    Shop in style
                 </h1>
                 <p>With this shop hompeage template</p>
             </div>

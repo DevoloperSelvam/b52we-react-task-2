@@ -25,7 +25,7 @@ function NavigationBar() {
         <Col>
           <div className='navthree'>
             <button><img width="16" height="16" src="https://img.icons8.com/material-outlined/24/github.png" alt="github" /></button>
-            <button id='off' ><img width="16" height="16" src="https://img.icons8.com/material-sharp/24/FA5252/download.png" alt="download"/>Free Download</button>
+            <button id='off' ><img width="16" height="16" src="https://img.icons8.com/material-sharp/24/FA5252/download.png" alt="download" />Free Download</button>
           </div>
         </Col>
       </Row>
